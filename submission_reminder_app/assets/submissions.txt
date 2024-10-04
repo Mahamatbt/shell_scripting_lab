@@ -1,0 +1,7 @@
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submittedMahamat , alu-shell , not submitted
+Ashutosh , alu-shell , submitted
+Ashutal , alu-shell , submitted
+Amal , alu-shell , submitted
+Ounfa , alu-shell , submitted
